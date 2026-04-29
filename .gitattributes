@@ -1,0 +1,11 @@
+*.ts binary -delta
+*.mp4 binary -delta
+*.m4s binary -delta
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.json text
+*.jsonl text
+*.m3u8 text
+*.vtt text
